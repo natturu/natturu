@@ -1,6 +1,6 @@
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() {
+    int main() {
 
     for (int i = 1; i <= 10; i++) {
         if (i % 5 == 0) {
@@ -11,4 +11,4 @@ int main() {
     }
 
     return 0;
-}
+    }
